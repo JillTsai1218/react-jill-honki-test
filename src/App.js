@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import $ from 'jquery'
 
 function App() {
   //下面是是解構賦值
